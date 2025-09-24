@@ -1,0 +1,225 @@
+    1  ps
+    2  -f
+    3  ps -f
+    4  ps -uf
+    5  clear
+    6  ps -fe | grep ssh
+    7  more /etc/netplan/*
+    8  sudo more /etc/netplan/*
+    9  ping dns.google
+   10  ps
+   11  ping dns.google
+   12  ps
+   13  clear
+   14  ps
+   15  kill 12608
+   16  ps
+   17  kill -9 12608
+   18  ps
+   19  sudo apt install ssh
+   20  pkginfo ssh
+   21  sudo apt install ssh
+   22  apt update -y && apt upgrate -y
+   23  sudo apt update -y && apt upgrate -y
+   24  ping -c 4 google.com
+   25  ip a
+   26  ifconfig
+   27  subdown now
+   28  shootdown now
+   29  reboot
+   30  sp
+   31  exit
+   32  sudo shutdown -h now
+   33  ip a
+   34  dpkg -1 | grep ssh
+   35  dpkg -l | grep ssh
+   36  sudo apt update && sudo apt upgrade -y && sudo apt install openssh-server -y
+   37  sudo systemctl star ssh
+   38  sudo systemctl start ssh
+   39  sudo systemctl enable  ssh
+   40  sudo systemctl status  ssh
+   41  ps -ef | grep ssh
+   42  clear
+   43  ps
+   44  ps -f
+   45  more /etc/netplan/*
+   46  sudo more /etc/netplan/*
+   47  ping dns.google
+   48  shot down
+   49  sudo shutdown -h now
+   50  ifconfig
+   51  if config;  s; ifconfig;  clear;  ddddddddddfgh;  man; if 
+   52  clear
+   53  ifconfig
+   54  ip a
+   55  sudo systemctl status ssh
+   56  ip a
+   57  1p a
+   58  ip 
+   59  ip a
+   60  sudo dhclient enp0s3
+   61  1
+   62  sudo shutdown -h now
+   63  sudo more /etc/netplan/*
+   64  sudo nano /etc/netplan/*
+   65  more /etc/netplan/*
+   66  sudo more /etc/netplan/*
+   67  ip a
+   68  ping dns.google
+   69  d
+   70  tail .bash_history
+   71  shutnow
+   72  shotdown help
+   73  shutdown
+   74  shutdown now
+   75  ps -fe | grep ssh
+   76  ip a
+   77  ping 8.8.8.8
+   78  ping dns.google
+   79  nslookup dns.google
+   80  '
+   81  d
+   82  grep sudo
+   83  exit
+   84  ps
+   85  clear
+   86  ps
+   87  ps-f
+   88  ps -f
+   89  ps -fe
+   90  ps -fe | grep ssh
+   91  grep sudo
+   92  grep sudo /etc/group
+   93  sud
+   94  sudo shutdown now
+   95  sudo /etc/shadow
+   96  sudo useradd -g 100 -m -b /home/prueba -c "Esta es la descripcion" -d /home/prueba - s /bin/bash prueba
+   97  vim primerScript.sh
+   98  :wq
+   99  ./primerScript.sh
+  100  chmod 711 primerScript.sh
+  101  ls 
+  102  ls -l
+  103  ./primerScript.sh
+  104  ls -l
+  105  nano primerScript.sh
+  106  ls -l
+  107  chmod 700 crearUsuario.sh
+  108  ls -l
+  109  /cearUsuario.sh
+  110  /crearUsuario.sh
+  111  ./crearUsuario.sh
+  112  grep /etc/shadow daniel
+  113  sudo grep daniel etc/group
+  114  grep daniel etc/passwd
+  115  sudo userdel -r daniel
+  116  sudo nano crearUsuario.sh
+  117  ./crearUsuario.sh
+  118  sudo grep daniel etc/passwd
+  119  sudo nano crearUsuario.sh
+  120  ./crearUsuario.sh
+  121  cat /etc/passwd
+  122  grep daniel /etc/passwd
+  123  sudo userdel -r daniel
+  124  grep daniel /etc/passwd
+  125  sudo nano crearUsuario.sh
+  126  ./crearUsuario.sh
+  127  grep daniel /etc/passwd
+  128  e
+  129  sudo grep daniel etc/passwd
+  130  sudo grep daniel /etc/passwd
+  131  ls -l
+  132  ps
+  133  uname -a
+  134  uname -r
+  135  lshw | more
+  136  lshw -C Display
+  137  lsblk
+  138  lsblk -f
+  139  du
+  140  du -k
+  141  ls -l
+  142  sudo nano crearUsuario.sh
+  143  shutdown now
+  144  clear
+  145  lsb_release -a
+  146  echo $XDG_CURRENT_DESKTOP
+  147  EXPORT HISTSIZE=10000
+  148  export histsize=10000
+  149  export histfilesize=20000
+  150  export histtimeformat="%F %T "
+  151  history
+  152  nano ~/.bashrc
+  153  S
+  154  uname -a
+  155  uname -r
+  156  df-h
+  157  df -h
+  158  du -h /etc
+  159  free -h
+  160  ps aux
+  161  sudo apt install htop
+  162  sudo apt update
+  163  sudo apt install sudo
+  164  sudo apt install htop
+  165  htop
+  166  pstree
+  167  htop
+  168  sudo shutdown now
+  169  ping Google.com
+  170  ping 8.8.8.8
+  171  shutdown now
+  172  clear
+  173  ip -br a
+  174  ping Google.com
+  175  ps -lax
+  176  ps -l
+  177  ping Google.com
+  178  ls .l
+  179  ls -l
+  180  ls -lx
+  181  ps aux
+  182  ps 
+  183  kill -9 1588
+  184  ps -e | grep firefox
+  185  firefox &
+  186  ps -e | grep firefox
+  187  kill -STOP 157
+  188  kill -CONT 157
+  189  #!/bin/bash
+  190  ps
+  191  ls
+  192  shutdown now
+  193  sudo apt update
+  194  sudo apt install build-essential dmks linux-headers-$(uname -r)
+  195  sudo apt update
+  196  sudo apt install build-essential dmks linux-headers-$(uname -r)
+  197  systemctl status ssh
+  198  systemctl start ssh
+  199  ls -la ~
+  200  systemctl start ssh
+  201  mkdir prueba
+  202  echo "hola inux" > prueba/notas.txt
+  203  cd /media/dnoguera
+  204  cd
+  205  cd /media
+  206  cd /$USER
+  207  cd ..
+  208  cd /media/dnoguera
+  209  ls
+  210  ls -l
+  211  tree
+  212  tre
+  213  shutdowm now
+  214  shutdown now
+  215  ls
+  216  mv
+  217  cp prueba/notas.txt prueba/notas_renombrado.txt
+  218  rm prueba/notas_renombrado.txt
+  219  ls > listado.txt
+  220  echo "Fin del listado" >> listado.txt
+  221  let a = 3/0 2>/dev/null
+  222  ps aux | grep bash
+  223  tail -n 5 listado.txt
+  224  history
+  225  history > historial_comandos.txt
