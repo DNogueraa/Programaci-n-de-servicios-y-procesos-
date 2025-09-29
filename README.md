@@ -16,4 +16,11 @@ Estados del proceso
   - Zombie
   - Finalizado
 ¿Quien causa el Bloqueo o el estado de espera?
+
+![Bloqueador/En espera](/Material/cap_Bloq_Esp.png)
+
 SIGVTALM - Temporizador virtual vencido
+
+Porblemas de 
+  - Inanición
+  - Cuello de botella
