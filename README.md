@@ -16,3 +16,4 @@ Estados del proceso
   - Zombie
   - Finalizado
 ¿Quien causa el Bloqueo o el estado de espera?
+SIGVTALM - Temporizador virtual vencido
